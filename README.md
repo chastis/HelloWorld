@@ -1,2 +1,2 @@
 # hello_world
-test
+Hello world project
