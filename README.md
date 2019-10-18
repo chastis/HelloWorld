@@ -1,10 +1,12 @@
 # Hello World!
 
 // create rep
+
 git clone https://github.com/user/title-repository
 cd title-repository/ 
 
 // create subrep
+
 git submodule add https://github.com/user/module-repository Module
 
 // main operations
